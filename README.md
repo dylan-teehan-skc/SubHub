@@ -8,7 +8,7 @@ Link to devpost and Demo -> https://devpost.com/software/team3-subhub
 Modern life comes with endless subscriptions, but managing them shouldn’t be a chore. From splitting bills with roommates to forgetting payment dates or overpaying for services you barely use, subscription fatigue is real. Traditional solutions leave you drowning in spreadsheets, calendar alerts, and guesswork—costing you time, money, and peace of mind.
 
 # What it does
-Gain instant visibility into every subscription, payment date, and cost. No more surprises—see your entire financial landscape at a glance.
+Gain instant visibility into every subscription, payment date, and cost. No more surprises—see your entire financial landscape at a glance!
 
 Smart Cost Splitting- Share subscriptions effortlessly with customizable virtual payment cards. Split Netflix with roommates, Spotify with friends, or SaaS tools with coworkers—set rules for who pays what, and let the platform handle the rest.
 
